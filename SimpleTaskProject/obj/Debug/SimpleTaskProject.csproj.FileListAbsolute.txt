@@ -1,0 +1,14 @@
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\bin\SimpleTaskProject.dll.config
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\bin\SimpleTaskProject.dll
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\bin\SimpleTaskProject.pdb
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\obj\Debug\SimpleTaskProject.csprojResolveAssemblyReference.cache
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\obj\Debug\SimpleTaskProject.csproj.CoreCompileInputs.cache
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\obj\Debug\SimpleTaskProject.dll
+C:\Users\Asl'\Documents\SimpleTaskProject\SimpleTaskProject\obj\Debug\SimpleTaskProject.pdb
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\bin\SimpleTaskProject.dll.config
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\bin\SimpleTaskProject.dll
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\bin\SimpleTaskProject.pdb
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\obj\Debug\SimpleTaskProject.csprojResolveAssemblyReference.cache
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\obj\Debug\SimpleTaskProject.csproj.CoreCompileInputs.cache
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\obj\Debug\SimpleTaskProject.dll
+C:\Users\paranoidandroid\Documents\simpletaskproject\SimpleTaskProject\obj\Debug\SimpleTaskProject.pdb

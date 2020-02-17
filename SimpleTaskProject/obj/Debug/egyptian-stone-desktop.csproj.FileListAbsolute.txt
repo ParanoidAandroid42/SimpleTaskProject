@@ -1,0 +1,21 @@
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll.config
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.pdb
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csproj.CoreCompileInputs.cache
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.dll
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.pdb
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll.config
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.pdb
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.dll
+C:\Users\Casper\Documents\egyptian-stone\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.pdb
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll.config
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.dll
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\bin\egyptian-stone-desktop.pdb
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csprojResolveAssemblyReference.cache
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.csproj.CoreCompileInputs.cache
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.dll
+C:\Users\ParanoidAndroid-pc\Documents\Yeni klasör\desktop\egyptian-stone-desktop\obj\Debug\egyptian-stone-desktop.pdb

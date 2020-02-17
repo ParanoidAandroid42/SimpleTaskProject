@@ -1,0 +1,5 @@
+C:\Users\Asli\Desktop\egyptian-stone1\desktop\egyptian-stone-newedition-desktop\bin\egyptian-stone-newedition-desktop.dll.config
+C:\Users\Asli\Desktop\egyptian-stone1\desktop\egyptian-stone-newedition-desktop\bin\egyptian-stone-newedition-desktop.dll
+C:\Users\Asli\Desktop\egyptian-stone1\desktop\egyptian-stone-newedition-desktop\bin\egyptian-stone-newedition-desktop.pdb
+C:\Users\Asli\Desktop\egyptian-stone1\desktop\egyptian-stone-newedition-desktop\obj\Debug\egyptian-stone-newedition-desktop.dll
+C:\Users\Asli\Desktop\egyptian-stone1\desktop\egyptian-stone-newedition-desktop\obj\Debug\egyptian-stone-newedition-desktop.pdb

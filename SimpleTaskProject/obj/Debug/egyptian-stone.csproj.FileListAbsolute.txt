@@ -1,0 +1,14 @@
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.dll.config
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.dll
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.pdb
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.csprojResolveAssemblyReference.cache
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.csproj.CoreCompileInputs.cache
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.dll
+C:\Users\HaloftheSun\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.pdb
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.dll.config
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.dll
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\bin\egyptian-stone.pdb
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.csproj.CoreCompileInputs.cache
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.dll
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.pdb
+C:\Users\paranoidandroid\Documents\egyptian-stone\desktop\egyptian-stone\obj\Debug\egyptian-stone.csprojResolveAssemblyReference.cache

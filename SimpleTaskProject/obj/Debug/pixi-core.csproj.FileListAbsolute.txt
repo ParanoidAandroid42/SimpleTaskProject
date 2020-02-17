@@ -1,0 +1,7 @@
+C:\Users\Asl'\Documents\pixicore\pixi-core\obj\Debug\pixi-core.csprojResolveAssemblyReference.cache
+C:\Users\Asl'\Documents\pixicore\pixi-core\bin\pixi-core.dll.config
+C:\Users\Asl'\Documents\pixicore\pixi-core\bin\pixi-core.dll
+C:\Users\Asl'\Documents\pixicore\pixi-core\bin\pixi-core.pdb
+C:\Users\Asl'\Documents\pixicore\pixi-core\obj\Debug\pixi-core.csproj.CoreCompileInputs.cache
+C:\Users\Asl'\Documents\pixicore\pixi-core\obj\Debug\pixi-core.dll
+C:\Users\Asl'\Documents\pixicore\pixi-core\obj\Debug\pixi-core.pdb
